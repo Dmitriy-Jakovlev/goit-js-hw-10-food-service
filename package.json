@@ -14,10 +14,10 @@
     "url": "git+https://github.com/Dmitriy-Jakovlev/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Dmitriy Jakovlev <JakovlevDmtry@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
+    "url": "https://github.com/Dmitriy-Jakovlev/goit-js-hw-10-food-service/issues"
   },
   "homepage": "https://Dmitriy-Jakovlev.github.io/goit-js-hw-10-food-service",
   "devDependencies": {
